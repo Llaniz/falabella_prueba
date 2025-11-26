@@ -1,0 +1,21 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3-journal
+
+# Django
+staticfiles/
+media/
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
+*.log
+.cursor/
