@@ -94,3 +94,7 @@ python manage.py runserver- Frontend: `http://127.0.0.1:8000/`
   - `GET /api/reporte-fidelizacion/`
 
 ---
+
+### 6. Video de la aplicación
+
+El video se encuentra disponible en el siguiente enlace https://youtu.be/o1ARFpaOJzA
